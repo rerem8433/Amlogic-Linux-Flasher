@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center">
+  <img src="v9.0.png" alt="Amlogic Linux Flasher GUI" width="900"><br>
+</p>
+
 ## Français
 
 Flash USB des box Android TV Amlogic depuis Linux (Mint, Ubuntu…), avec une interface calquée sur **Amlogic USB Burning Tool**. Plus besoin de redémarrer sous Windows.
